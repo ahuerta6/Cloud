@@ -1,2 +1,2 @@
 # Proxmox Setup
-<h3>This is where I will show screenshots and explanation for my setup of proxmox.</h3>
+<h3>Screenshots and explanations for my setup of proxmox.</h3>
