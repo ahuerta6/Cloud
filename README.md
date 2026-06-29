@@ -1,2 +1,2 @@
-# My cloud setup
-In this github repository I will show you my progress of setting up my own cloud network. Eventually I will use this setup to run my own labs.
+# My Virtual Server Setup
+In this github repository I will show you my progress of setting up my own virtualized server. Eventually I will use this setup to run my own labs and test for a simulated network setup. I am using Proxmox an open-source virtualization platform. Feel free to use this repo as a guide for your own setups. 
